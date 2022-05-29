@@ -2,5 +2,5 @@
 2) second file
 3) continie
 my home
-i
+git home
 
